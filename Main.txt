@@ -1,2 +1,2 @@
 Its a Git practice project
- 
+Take input from the user and evaluate the result 
